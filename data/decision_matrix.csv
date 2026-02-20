@@ -1,0 +1,6 @@
+Model,ROUGE-1,ROUGE-L,BERTScore,Factual_Consistency,Inference_Time,Model_Size
+BART-large-CNN,44.2,41.3,0.915,0.89,0.95,1600
+PEGASUS-large,45.1,42.2,0.923,0.91,1.15,2200
+T5-base,40.3,37.8,0.887,0.85,0.55,850
+FLAN-T5-small,38.9,36.5,0.872,0.83,0.40,300
+DistilBART-CNN-12-6,42.8,39.9,0.905,0.87,0.60,600

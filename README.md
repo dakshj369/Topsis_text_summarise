@@ -127,13 +127,13 @@ topsis_pretrained/
 
 The closeness coefficient for each model is plotted to visualize the final ranking.
 
-See: `output/closeness_bar_chart.png`
+[Closeness Chart](./output/closeness_bar_chart.png)
 
 ### Normalized Decision Matrix Heatmap
 
 The heatmap shows the normalized values of each criterion across models.
 
-See: `output/normalized_heatmap.png`
+[normalised Heatmap](./output/normalized_heatmap.png)
 
 ---
 
@@ -143,7 +143,7 @@ The complete TOPSIS scores and ranking are available in:
 
 `results/topsis_scores.csv`
 
-The model with the highest TOPSIS score is considered the most balanced solution considering both summarization quality and computational efficiency.
+The model with the highest TOPSIS score is considered the most balanced solution, considering both summarization quality and computational efficiency.
 
 ---
 
